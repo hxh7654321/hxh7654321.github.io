@@ -1,7 +1,7 @@
 {
-  "name": "Mr.Aru Blog",
-  "short_name": "Mr.Aru Blog",
-  "description": "A personal blog by engineer",
+  "name": "ATS Comments",
+  "short_name": "ATS Comments",
+  "description": "Revolution and Communism will change the world.",
   "icons": [{
     "src": "icons/pwa_icon_512.png",
     "sizes": "512x512",
